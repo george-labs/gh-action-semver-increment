@@ -1,10 +1,10 @@
 ---
-name: 'Version Increment'
+name: 'GeorgeLabs: Version Increment'
 description: Inspects the git tags to determine the current normal version, and returns the next version number
 
 branding:
-  icon: plus
-  color: purple
+  icon: tag
+  color: blue
 
 inputs:
   scheme:
